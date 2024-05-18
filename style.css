@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+#header{
+    background-color: rgb(245, 239, 232);
+}
+.head{
+    display: flex;
+     
+}
+#developer{
+    margin-top: 20px;
+    margin-right: 3%;
+}
+.about{
+    padding-left: 60px;
+    padding-top: 10%;
+}
+#me{
+    font-size: 40px;
+}
+#name{
+    font-size: 80px;
+    margin-bottom: 0;
+}
+#bio{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+#my-pic{
+    margin-top: 15%;
+}
+#link-btn{
+    text-decoration: none;
+    background-color: coral;
+    color: white;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 4%;
+}
